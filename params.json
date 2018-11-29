@@ -1,14 +1,15 @@
 {
-"wa_username": "",
-"wa_password": "",
-"wa_workspace_id": "",
-"cloudant_url": "",
-"fb_verification_token": "",
-"fb_page_access_token": "",
-"vr_api_key": "",
-"vr_model_id": "",
+"wa_username": "apikey",
+"wa_password": "kqVO8BNiSufdsLnrWk1A2lW5Jmy_oEx9pWLppok4Ev25",
+"wa_workspace_id": "16f4f31f-1c26-4850-adab-7ad6277b954e",
+"cloudant_url": "https://2c2dbb35-1f30-49e7-9e43-96dcff8c99b0-bluemix:b91f54cdbc7f9814b16e04e5516d75c6de75a78634ddc3896d4abcb4cf9b92b5@2c2dbb35-1f30-49e7-9e43-96dcff8c99b0-bluemix.cloudant.com",
+"fb_verification_token": "watson2018",
+"fb_page_access_token": "EAAEAoTlg8FUBAK5PgTZAnBlZBQMqhUjBwLROvemqiegGRopFzpa31D5ZAeITyVpt26LMpmjhHpvZAZCsZB3sxtoiZAumb8zc44yr3TG4qvZCi1W9zCPQiZCXykoPZBPZAtkiH1Lsj0q8ZCP8bKzw37GZCQbSNOIz8pIBOgOSZBpzNbwSr5uPPlrwqmnHep",
+"vr_api_key": "Ms4joHRKTNnYgPKw4LTcIwF4flmE5LiLK44eFf1CVCVw",
+"vr_model_id": "DefaultCustomModel_1102606470",
 "wds_username": "",
 "wds_password": "",
 "wds_enviroment": "",
 "wds_collection_reviews": ""
 }
+
